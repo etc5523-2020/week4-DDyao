@@ -1,3 +1,11 @@
 ---
 site: blogdown:::blogdown_site
 ---
+
+
+```{r}
+hist(10)
+
+
+
+```

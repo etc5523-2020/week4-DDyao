@@ -1,19 +1,19 @@
 ---
 authors:
-- admin
+- DIYAO CHEN
 bio: Hello
 education:
   courses:
   - course: Masters of Business Analytics
-    year: 2021
-email: ""
+    year: 2020
+email: "dche135@student.monash.edu"
 interests:
 - Statistics
 - Machine Learning
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: student of bussiness analysis
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: DIYAO CHEN
 user_groups:
 - Researchers
 - Visitors

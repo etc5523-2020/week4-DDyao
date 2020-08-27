@@ -24,3 +24,7 @@ projects: []
 plot(cars$speed, cars$dist)
 ```
 
+```{r}
+hist(10)
+
+```
